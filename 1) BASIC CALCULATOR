@@ -1,0 +1,18 @@
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+print("Sum:", a + b)
+print("Difference:", a - b)
+print("Product:", a * b)
+print("Quotient:", a / b)
+print("Remainder:", a % b)
+
+Output:
+Enter first number: 4
+Enter second number: 2
+Sum: 6.0
+Difference: 2.0
+Product: 8.0
+Quotient: 2.0
+Remainder: 0.0
+
+=== Code Execution Successful ===
